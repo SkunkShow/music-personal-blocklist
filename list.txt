@@ -124,3 +124,6 @@ Histrocore
 
 # AI suspicion
 Fadaway
+
+# Not enough info on band
+Mur Blanc
